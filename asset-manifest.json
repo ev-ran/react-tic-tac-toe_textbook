@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tic-tac-toe_textbook/static/css/main.08b6adb4.chunk.css",
+    "main.js": "/react-tic-tac-toe_textbook/static/js/main.2b32cb62.chunk.js",
+    "main.js.map": "/react-tic-tac-toe_textbook/static/js/main.2b32cb62.chunk.js.map",
+    "runtime-main.js": "/react-tic-tac-toe_textbook/static/js/runtime-main.e3ab689d.js",
+    "runtime-main.js.map": "/react-tic-tac-toe_textbook/static/js/runtime-main.e3ab689d.js.map",
+    "static/js/2.c4be1b4a.chunk.js": "/react-tic-tac-toe_textbook/static/js/2.c4be1b4a.chunk.js",
+    "static/js/2.c4be1b4a.chunk.js.map": "/react-tic-tac-toe_textbook/static/js/2.c4be1b4a.chunk.js.map",
+    "index.html": "/react-tic-tac-toe_textbook/index.html",
+    "precache-manifest.c9ba49e1d367730c18d9b0c95c9d54cc.js": "/react-tic-tac-toe_textbook/precache-manifest.c9ba49e1d367730c18d9b0c95c9d54cc.js",
+    "service-worker.js": "/react-tic-tac-toe_textbook/service-worker.js",
+    "static/css/main.08b6adb4.chunk.css.map": "/react-tic-tac-toe_textbook/static/css/main.08b6adb4.chunk.css.map",
+    "static/js/2.c4be1b4a.chunk.js.LICENSE.txt": "/react-tic-tac-toe_textbook/static/js/2.c4be1b4a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-tic-tac-toe_textbook/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3ab689d.js",
+    "static/js/2.c4be1b4a.chunk.js",
+    "static/css/main.08b6adb4.chunk.css",
+    "static/js/main.2b32cb62.chunk.js"
+  ]
+}
