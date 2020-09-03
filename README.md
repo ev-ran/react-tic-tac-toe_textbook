@@ -1,4 +1,5 @@
-Project published at:  https://ev-ran.github.io/react-tic-tac-toe_textbook/
+Project published at:  https://ev-ran.github.io/react-tic-tac-toe_textbook/ <br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
